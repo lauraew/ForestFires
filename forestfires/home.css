@@ -1,0 +1,26 @@
+#home {
+    --first-color: #728c44;
+    --second-color: #3d5322;    
+    --light-gray: lightgray;
+}
+
+
+.l-green{
+    background-color: var(--first-color);
+}
+.d-green{
+    background-color: var(--second-color);
+}
+a{
+    color: white;
+}
+.jumbotron{
+    
+    background-color: var(--first-color);
+}
+
+
+
+
+
+
